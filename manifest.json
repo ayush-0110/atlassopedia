@@ -1,0 +1,23 @@
+{
+    "name": "Atlassopedia",
+    "description": "Check where to watch your favourite webseries or movie",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "Ayush",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Atlassopedia",
+        "default_icon": {
+            "16": "/images/uranus16.png",
+            "32": "/images/uranus32.png",
+            "48": "/images/uranus64.png",
+            "128": "/images/uranus128.png"
+          }
+    },
+    "icons": {
+        "16": "/images/uranus16.png",
+        "32": "/images/uranus32.png",
+        "48": "/images/uranus64.png",
+        "128": "/images/uranus128.png"
+      }
+  }
